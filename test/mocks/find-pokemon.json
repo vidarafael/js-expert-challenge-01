@@ -1,0 +1,14 @@
+[
+  {
+    "name": "sandslash",
+    "moves": [ "scratch", "swords-dance", "cut", "sand-attack", "headbutt" ]
+  },
+  {
+    "name": "nidoran-f",
+    "moves": [ "scratch", "cut", "double-kick", "headbutt", "tackle" ]
+  },
+  {
+    "name": "nidorina",
+    "moves": [ "scratch", "cut", "double-kick", "headbutt", "horn-drill" ]
+  }
+]
